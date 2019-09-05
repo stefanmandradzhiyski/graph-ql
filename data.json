@@ -1,0 +1,12 @@
+{
+  "hotelCustomers": [
+    {
+      "firstName": "Stefan",
+      "lastName": "Mandradzhiyski",
+      "email": "stefanmandradzhiyski@gmail.com",
+      "telephone": "0896677939",
+      "idCard": "2732-3312-6321-2323-9821",
+      "id": 1
+    }
+  ]
+}

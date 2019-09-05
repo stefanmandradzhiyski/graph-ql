@@ -1,0 +1,23 @@
+{
+  "name": "hotelbase",
+  "version": "1.0.0",
+  "description": "GraphQL Project for FMI",
+  "main": "server.js",
+
+  "scripts": {
+    "dev:server": "nodemon server.js",
+    "json:server": "json-server --watch data.json"
+  },
+
+  "author": "Stefan Mandradzhiyski",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1",
+    "json-server": "^0.15.0",
+    "nodemon": "^1.19.1"
+  }
+  
+}
